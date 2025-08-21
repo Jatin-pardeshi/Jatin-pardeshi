@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jatin-Pardeshi/Jatin-Pardeshi/output/snake.svg" alt="Snake animation" />
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2689350" alt="Tryhackme" />
 
 ###
