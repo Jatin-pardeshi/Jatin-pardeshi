@@ -42,10 +42,7 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
 
-###
+## 🛡️ My TryHackMe Badge
 
-<br clear="both">
-
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2689350" alt="Tryhackme" />
-
-###
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Coderjatin.png)](https://tryhackme.com/p/Coderjatin)
+##
